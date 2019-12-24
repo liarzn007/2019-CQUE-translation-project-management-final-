@@ -2,7 +2,7 @@
 
 使用git Add命令将文件添加到暂存环境中。
 
-如果您重新运行git status命令，您将看到git已经将文件添加到暂存环境中(请注意“要提交的更改”行)。
+如果你重新运行git status命令，你将看到git已经将文件添加到暂存环境中(请注意“要提交的更改”行)。
 
 ```htlm
 mnelson:myproject mnelson$ git status
