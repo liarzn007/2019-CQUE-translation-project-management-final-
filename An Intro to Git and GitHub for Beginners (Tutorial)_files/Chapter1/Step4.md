@@ -1,17 +1,8 @@
-# Step4：创建提交
+# 步骤4：创建提交
 
-现在是创建第一个提交的时候了！
+现在可以创建你的第一次提交了！
 
-运行命令git commit -m "Your message about the commit" 
-
-```
-mnelson:myproject mnelson$ git commit -m "This is my first commit!"
-[master (root-commit) b345d9a] This is my first commit!
- 1 file changed, 1 insertion(+)
- create mode 100644 mnelson.txt
-```
-
-[view raw](https://gist.github.com/cubeton/1068d965d147b4039e4d/raw/5c3262c3f6e3c28328ba57ea33c512dbab149fcf/commit.md)[commit.md](https://gist.github.com/cubeton/1068d965d147b4039e4d#file-commit-md) hosted with ❤ by [GitHub](https://github.com)
+运行命令git commit -m“您有关提交的消息”
 
 ```
 mnelson:myproject mnelson$ git commit -m "This is my first commit!"
@@ -20,7 +11,15 @@ mnelson:myproject mnelson$ git commit -m "This is my first commit!"
  create mode 100644 mnelson.txt
 ```
 
-[view raw](https://gist.github.com/cubeton/1068d965d147b4039e4d/raw/5c3262c3f6e3c28328ba57ea33c512dbab149fcf/commit.md)[commit.md](https://gist.github.com/cubeton/1068d965d147b4039e4d#file-commit-md) hosted with ❤ by [GitHub](https://github.com/)
+[commit.md](https://gist.github.com/cubeton/1068d965d147b4039e4d#file-commit-md) hosted with ❤ by [GitHub](https://github.com)
 
-提交结束时的消息应该与提交包含的内容有关——可能是一个新的特性，可能是bug修复，也许只是修复一个打印错误。不要放“asdfadsf”或“foobar”这样的消息。这让其他看到你的承诺的人很难过。非常，非常，悲伤。
+```
+mnelson:myproject mnelson$ git commit -m "This is my first commit!"
+[master (root-commit) b345d9a] This is my first commit!
+ 1 file changed, 1 insertion(+)
+ create mode 100644 mnelson.txt
+```
 
+[commit.md](https://gist.github.com/cubeton/1068d965d147b4039e4d#file-commit-md) hosted with ❤ by [GitHub](https://github.com/)
+
+提交末次修改应该与提交所包含的内容有关，它可能是新添内容，可能是对某一错误思维修改，也可能只是在修复输入错误。 不要输入“ asdfadsf”或“ foobar”之类的内容。这让看到你的提交内容的人很迷茫。
