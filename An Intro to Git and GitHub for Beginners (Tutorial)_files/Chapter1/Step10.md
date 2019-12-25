@@ -1,8 +1,10 @@
-# Step10 将GitHub上的更改同步到您的计算机
+
+
+# 步骤十： 将GitHub上的更改同步到您的计算机
 
 现在，GitHub上的仓库看起来与本地计算机上的仓库有所不同。 例如，您在分支中进行的提交并合并到master分支中的提交在本地计算机上的master分支中不存在。
 
-为了获得您或其他人已在GitHub上合并的最新更改，请使用git pull origin master命令（在master分支上工作时）。
+为了获得您或其他人已在GitHub上合并的最新更改，请使用**git pull origin master**命令（在master分支上工作时）。
 
 ```html
 mnelson:myproject mnelson$ git pull origin master
@@ -15,7 +17,10 @@ From https://github.com/cubeton/mynewrepository
 Merge made by the 'recursive' strategy.
  mnelson.txt | 1 +
  1 file changed, 1 insertion(+)
-pulloriginmaster.md hosted with ❤ by GitHub
+```
+
+```
+ pulloriginmaster.md hosted with <font color="#4590a3">❤</font> by GitHub
 ```
 
 ```
@@ -29,14 +34,17 @@ From https://github.com/cubeton/mynewrepository
 Merge made by the 'recursive' strategy.
  mnelson.txt | 1 +
  1 file changed, 1 insertion(+)
-view rawpulloriginmaster.md hosted with ❤ by GitHub
+```
+
+```
+pulloriginmaster.md hosted with ❤ by GitHub
 ```
 
 这将向您显示所有已更改的文件及其更改方式。
 
-现在，我们可以再次使用git log命令查看所有新提交。
+现在，我们可以再次使用"**git log**命令查看所有新提交。
 
-（您可能需要将分支切换回master分支。您可以使用git checkout master命令来执行此操作。）
+（您可能需要将分支切换回master分支。您可以使用**git checkout master**命令来执行此操作。）
 
 ```
 mnelson:myproject mnelson$ git log
@@ -73,6 +81,9 @@ Author: Meghan Nelson <mnelson@hubspot.com>
 Date:   Thu Sep 10 17:42:15 2015 -0400
 
     This is my first commit!
+```
+
+```
 view rawgitlogaftermerge.md hosted with ❤ by GitHub
 ```
 
@@ -111,6 +122,9 @@ Author: Meghan Nelson <mnelson@hubspot.com>
 Date:   Thu Sep 10 17:42:15 2015 -0400
 
     This is my first commit!
-view rawgitlogaftermerge.md hosted with ❤ by GitHub
+```
+
+```
+gitlogaftermerge.md hosted with ❤ by GitHub
 ```
 
