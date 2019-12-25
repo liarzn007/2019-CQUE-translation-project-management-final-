@@ -6,4 +6,4 @@
 
 您使用git的次数越多，您将越感到它的便利。 （我会坚持使用它。）
 
-![0027c58](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\0027c58.webp)
+![0027c58](assets/0027c58.webp)
