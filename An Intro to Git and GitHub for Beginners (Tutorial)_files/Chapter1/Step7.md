@@ -2,7 +2,7 @@
 
 现在，我们将分支中的提交**推送到**新的GitHub存储库。 这使其他人可以看到您所做的更改。 如果它们是由存储库所有者批准的，则可以将更改合并到主（master）分支中。
 
-要将更改推送到GitHub上的新分支，您需要运行**git push origin**您的分支名称。 GitHub将在远程存储库上自动为您创建分支：
+要将更改推送到GitHub上的新分支，您需要运行<font color="#6495ED">**git push origin**</font>**您的分支名称**。 GitHub将在远程存储库上自动为您创建分支：
 
 ```html
 mnelson:myproject mnelson$ git push origin my-new-branch
@@ -34,7 +34,7 @@ To https://github.com/cubeton/mynewrepository.git
 addgithub.md hosted with ❤ by GitHub
 ```
 
-您可能想知道上面命令中“起源”一词的含义。 当您将远程存储库克隆到本地计算机时，git为您创建了一个**别名**。 在几乎所有情况下，此别名都称为**“来源”。** 它实质上是远程存储库URL的简写。 因此，要将更改推送到远程存储库，可以使用以下命令：**git push git@github.com：git / git.git yourbranchname或git push origin yourbranchname**
+您可能想知道上面命令中“起源”一词的含义。 当您将远程存储库克隆到本地计算机时，git为您创建了一个**别名**。 在几乎所有情况下，此别名都称为<font color="#6495ED">**“来源”**</font>。它实质上是远程存储库URL的简写。 因此，要将更改推送到远程存储库，可以使用以下命令：**git push git@github.com：git / git.git yourbranchname或git push origin yourbranchname**
 
 （如果这是您第一次在本地使用GitHub，可能会提示您使用GitHub用户名和密码登录。）
 

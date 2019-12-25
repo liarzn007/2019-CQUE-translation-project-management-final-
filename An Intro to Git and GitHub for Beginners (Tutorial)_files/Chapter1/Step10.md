@@ -42,7 +42,7 @@ pulloriginmaster.md hosted with ❤ by GitHub
 
 这将向您显示所有已更改的文件及其更改方式。
 
-现在，我们可以再次使用"**git log**命令查看所有新提交。
+现在，我们可以再次使用<font color="#6495ED">**git log**</font>命令查看所有新提交。
 
 （您可能需要将分支切换回master分支。您可以使用**git checkout master**命令来执行此操作。）
 
