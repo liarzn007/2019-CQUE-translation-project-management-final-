@@ -16,7 +16,7 @@ mnelson:myproject mnelson$ git branch
 * my-new-branch
 ```
 
- [gitbranch.md](https://gist.github.com/cubeton/fa25a25f322a2cd5f405#file-gitbranch-md) hosted with ❤ by [GitHub](https://github.com) 
+[gitbranch.md](https://gist.github.com/cubeton/fa25a25f322a2cd5f405#file-gitbranch-md) hosted with ❤ by [GitHub](https://github.com) 
 
 ```html
 mnelson:myproject mnelson$ git branch

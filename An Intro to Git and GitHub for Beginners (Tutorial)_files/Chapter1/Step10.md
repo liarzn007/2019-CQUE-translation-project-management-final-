@@ -19,9 +19,7 @@ Merge made by the 'recursive' strategy.
  1 file changed, 1 insertion(+)
 ```
 
-```
- pulloriginmaster.md hosted with <font color="#4590a3">❤</font> by GitHub
-```
+[pulloriginmaster.md](https://gist.github.com/cubeton/48b5c726b496d50c3975#file-pulloriginmaster-md) hosted with ❤ by [GitHub](https://github.com) 
 
 ```
 mnelson:myproject mnelson$ git pull origin master
@@ -36,9 +34,7 @@ Merge made by the 'recursive' strategy.
  1 file changed, 1 insertion(+)
 ```
 
-```
-pulloriginmaster.md hosted with ❤ by GitHub
-```
+[pulloriginmaster.md](https://gist.github.com/cubeton/48b5c726b496d50c3975#file-pulloriginmaster-md) hosted with ❤ by [GitHub](https://github.com/) 
 
 这将向您显示所有已更改的文件及其更改方式。
 
@@ -83,9 +79,7 @@ Date:   Thu Sep 10 17:42:15 2015 -0400
     This is my first commit!
 ```
 
-```
-view rawgitlogaftermerge.md hosted with ❤ by GitHub
-```
+[gitlogaftermerge.md](https://gist.github.com/cubeton/48f55c5a237cd8e1a238#file-gitlogaftermerge-md) hosted with ❤ by [GitHub](https://github.com) 
 
 ```
 mnelson:myproject mnelson$ git log
@@ -124,7 +118,5 @@ Date:   Thu Sep 10 17:42:15 2015 -0400
     This is my first commit!
 ```
 
-```
-gitlogaftermerge.md hosted with ❤ by GitHub
-```
+[gitlogaftermerge.md](https://gist.github.com/cubeton/48f55c5a237cd8e1a238#file-gitlogaftermerge-md) hosted with ❤ by [GitHub](https://github.com/) 
 
