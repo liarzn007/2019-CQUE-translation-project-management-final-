@@ -34,17 +34,9 @@
 
 ## 项目实施流程
 
-| 2019.12.22 | 小组成员安装GitHub Desktop登陆账号                           |
-| ---------- | ------------------------------------------------------------ |
-| 2019.12.22 | 项目经理fork项目并创建翻译小组                               |
-| 201912.23  | 项目经理分配任务，每个成员分别建立自己的分支，然后pull request交给项目经理 |
-| 2019.12.23 | 审校人员审校翻译人员的翻译作品，并反馈信息，同时可以各自创建issue共同讨论 |
-| 2019.12.24 | 翻译人员修改翻译并重新提交给项目经理，项目经理merge翻译      |
-| 2019.12.24 | 项目经理整合翻译，并进行再次检查                             |
-| 2019.12.25 | 项目经理提交翻译项目给客户                                   |
+![image-20191224231755424](C:\Users\黎莹莹\AppData\Roaming\Typora\typora-user-images\image-20191224231755424.png)
 
 ## 平行文本
-
 | Document                                                     | 文件                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Welcome to the Hexo documentation.                           | 欢迎使用 Hexo，本文档将帮助您快速上手。                      |
@@ -96,7 +88,6 @@
 | Overriding Theme Config                                      | 覆盖主题配置                                                 |
 | Hexo themes are independent projects, with separate `_config.yml` files. | 通常情况下，Hexo 主题是一个独立的项目，并拥有一个独立的 `_config.yml` 配置文件。 |
 | Instead of forking a theme, and maintaining a custom branch with your settings, you can configure it from your site’s primary configuration file. | 你可以在站点的 `_config.yml` 配置文件中配置你的主题，这样你就不需要 fork 一份主题并维护主题独立的配置文件。 |
-
 ## 项目要求
 
 ### 项目流程要求
