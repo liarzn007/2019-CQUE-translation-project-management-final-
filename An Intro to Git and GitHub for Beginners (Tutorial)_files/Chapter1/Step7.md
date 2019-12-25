@@ -15,9 +15,7 @@ To https://github.com/cubeton/mynewrepository.git
  * [new branch]      my-new-branch -> my-new-branch
 ```
 
-```
-addgithub.md hosted with ❤ by GitHub
-```
+[addnewbranchgithub.md](https://gist.github.com/cubeton/bf8274609c344b6d0e70#file-addnewbranchgithub-md) hosted with ❤ by [GitHub](https://github.com) 
 
 ```
 mnelson:myproject mnelson$ git push origin my-new-branch
@@ -30,9 +28,7 @@ To https://github.com/cubeton/mynewrepository.git
  * [new branch]      my-new-branch -> my-new-branch
 ```
 
-```html
-addgithub.md hosted with ❤ by GitHub
-```
+[addnewbranchgithub.md](https://gist.github.com/cubeton/bf8274609c344b6d0e70#file-addnewbranchgithub-md) hosted with ❤ by [GitHub](https://github.com/) 
 
 您可能想知道上面命令中“起源”一词的含义。 当您将远程存储库克隆到本地计算机时，git为您创建了一个**别名**。 在几乎所有情况下，此别名都称为<font color="#6495ED">**“来源”**</font>。它实质上是远程存储库URL的简写。 因此，要将更改推送到远程存储库，可以使用以下命令：**git push git@github.com：git / git.git yourbranchname或git push origin yourbranchname**
 

@@ -27,9 +27,7 @@ To https://github.com/cubeton/mynewrepository.git
 Branch master set up to track remote branch master from origin.
 ```
 
-```html
-addgithub.md hosted with ❤ by GitHub
-```
+[addgithub.md](https://gist.github.com/cubeton/3a2616c44e35ca68a6b0#file-addgithub-md)         hosted with ❤ by [GitHub](https://github.com)
 
 ```html
 mnelson:myproject mnelson$ git remote add origin https://github.com/cubeton/mynewrepository.git
@@ -42,8 +40,6 @@ To https://github.com/cubeton/mynewrepository.git
 Branch master set up to track remote branch master from origin.
 ```
 
-```html
-addgithub.md hosted with ❤ by GitHub
-```
+[addgithub.md](https://gist.github.com/cubeton/3a2616c44e35ca68a6b0#file-addgithub-md)         hosted with ❤ by [GitHub](https://github.com/)
 
 （由于您的GitHub用户名和存储库名称不同，因此您需要将第一个命令行中的URL更改为本节中GitHub列出的内容。）
