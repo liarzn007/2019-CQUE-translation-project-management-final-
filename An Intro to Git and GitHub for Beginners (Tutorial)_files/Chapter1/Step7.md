@@ -40,6 +40,6 @@ addgithub.md hosted with ❤ by GitHub
 
 刷新GitHub页面后，您会看到注释，说您的名字的分支刚刚被推送到存储库中。 您也可以单击“分支”链接以查看此处列出的分支。
 
-![Git_101_Screenshot2](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\Git_101_Screenshot2.webp)
+![Git_101_Screenshot1-2](assets/Git_101_Screenshot1-2.webp)
 
 现在，单击上方屏幕快照中的绿色按钮。 我们将提出合并请求！

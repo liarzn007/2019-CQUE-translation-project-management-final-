@@ -4,13 +4,13 @@
 
 要在GitHub上创建新的仓库，请登录并转到GitHub主页。 您应该看到一个绿色的“ +repository（新仓库）”按钮：
 
-![Git_101_Screenshot1-2](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\Git_101_Screenshot1-2.webp)
+![Git_101_Screenshot1-2](assets/Git_101_Screenshot1-2-1577239537628.webp)
 
 
 
 单击按钮后，GitHub将要求您命名您的存储库并提供简短描述：
 
-![Git_101_Screenshot_2-1](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\Git_101_Screenshot_2-1.webp)
+![Git_101_Screenshot_2-1](assets/Git_101_Screenshot_2-1.webp)
 
 填写完信息后，按“创建仓库”按钮创建新仓库。
 

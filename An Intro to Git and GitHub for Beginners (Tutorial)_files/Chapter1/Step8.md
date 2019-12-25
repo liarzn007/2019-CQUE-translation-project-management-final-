@@ -12,13 +12,13 @@
 
 这是提交合并请求页之前的样子：
 
-![Git_101_Screenshot_4](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\Git_101_Screenshot_4.webp)
+![Git_101_Screenshot_4](assets/Git_101_Screenshot_4.webp)
 
  
 
 提交合并请求后的样子：
 
-![Git_101_Screenshot_5](C:\Users\Administrator\Desktop\2019-CQUE-translation-project-management-final-\附件2 translation project\An Intro to Git and GitHub for Beginners (Tutorial)_files\Git_101_Screenshot_5.webp)
+![Git_101_Screenshot_5](assets/Git_101_Screenshot_5.webp)
 
 您可能会在底部看到一个绿色的大按钮，上面显示“合并请求”。点击它意味着您将您的更改合并到主分支中。
 
